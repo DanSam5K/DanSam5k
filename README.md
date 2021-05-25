@@ -8,9 +8,9 @@
 ```javascript
 const samuelDaniel= {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, CSS],
-  askMeAbout: [Chelsea, football, Cars, Booming Business In Nigeria],
-  challenge: "I am honing my Ruby and RoR skills and picking up Vue",
+  code: [JavaScript, React, Redux, Ruby and Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Vue.js, SQL],
+  askMeAbout: [football, Cars, Booming Business In Nigeria],
+  challenge: "I am honing my TypeScript skills and picking up",
   funFacts: ['I have remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
