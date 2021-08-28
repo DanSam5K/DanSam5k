@@ -1,9 +1,9 @@
-### Hello, I am [DanSam!](https://github.com/DanSam5K) 👋
+## Hello, I am [DanSam!](https://github.com/DanSam5K) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansamuel/)](https://www.linkedin.com/in/dansamuel/)
 [![Twitter Badge](https://img.shields.io/badge/-@_dan_sam-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_dan_sam)](https://twitter.com/_dan_sam)
 
-## [Portfolio](https://dansam5k.github.io/My-Portfolio/)
+# [Portfolio](https://dansam5k.github.io/My-Portfolio/)
 
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
