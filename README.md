@@ -13,7 +13,7 @@ const samuelDaniel= {
   lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
   code: ["JavaScript", "React", "Redux", "Ruby and Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap", "Vue.js", "SQL"],
   askMeAbout: ["Football", "Cars", "Business"],
-  challenge: "I am honing my TypeScript skills and picking up",
+  challenge: "I am honing my TypeScript skills and picking up new skills in cloud computing",
   funFacts: ['I have remote work experience with devs 
   from all over the world', 
   'my tiny chihuahua is ready to woof at the right offer']
