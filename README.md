@@ -36,9 +36,11 @@ const samuelDaniel= {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 ### STATUS REPORT
-- 🌱 I’m currently learning and Honing my skills with ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 I Completed a Full-Stack Development remote training from ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/DanSam5k/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/Dansam5k/DanSam5k/issues)
+
+[![DanSam's's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSam5k&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/DanSam5k/github-readme-stats) 
 
 <!--
 **DanSam5K/DanSam5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
