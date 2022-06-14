@@ -36,7 +36,7 @@ const samuelDaniel= {
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 ### STATUS REPORT
-- 🌱 I Completed a Full-Stack Development remote training from ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 Certified Full-Stack Developer at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/DanSam5k/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/Dansam5k/DanSam5k/issues)
 
