@@ -39,14 +39,15 @@ const samuelDaniel= {
 - 🌱 Certified Full-Stack Developer at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/DanSam5k/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/Dansam5k/DanSam5k/issues)
-
+- 
 [![DanSam's's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSam5k&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/DanSam5k/github-readme-stats) 
+
 
 <!--
 **DanSam5K/DanSam5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning AWS and mastering containerization with docker
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
