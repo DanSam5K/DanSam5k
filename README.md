@@ -22,7 +22,7 @@ const samuelDaniel= {
 
 ### I spent my time on the following <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -45,7 +45,7 @@ const samuelDaniel= {
 
 <!--
 **DanSam5K/DanSam5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Need to fix this
 
 - 🌱 I’m currently learning AWS and mastering containerization with docker
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
