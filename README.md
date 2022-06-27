@@ -45,7 +45,6 @@ const samuelDaniel= {
 
 <!--
 **DanSam5K/DanSam5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Need to fix this
 
 - 🌱 I’m currently learning AWS and mastering containerization with docker
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
