@@ -39,8 +39,10 @@ const samuelDaniel= {
 - 🌱 Certified Full-Stack Developer at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/DanSam5k/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/Dansam5k/DanSam5k/issues)
-- 
+
 [![DanSam's's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanSam5k&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/DanSam5k/github-readme-stats) 
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
 <!--
