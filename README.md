@@ -11,7 +11,7 @@
 ```javascript
 const samuelDaniel= {
   lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
-  code: ["JavaScript", "React", "Redux", "Ruby and Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap", "Vue.js", "SQL", "AWS"],
+  code: ["JavaScript", "React", "Redux", "Ruby and Ruby on Rails", "Python and Django/FastAPI/Flask", "HTML/CSS", "Semantic UI", "Bootstrap", "Vue.js", "SQL", "AWS"],
   askMeAbout: ["Football", "Cars", "Business"],
   challenge: "I am honing my TypeScript skills and picking up new skills in cloud computing",
   funFacts: ['I have remote work experience with devs 
