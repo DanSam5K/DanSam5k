@@ -5,7 +5,6 @@
 
 # [Portfolio](https://dansam5k.github.io/My-Portfolio/)
 
-speaks volume
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
