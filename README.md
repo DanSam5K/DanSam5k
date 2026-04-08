@@ -181,12 +181,7 @@ Full-stack software engineer with **hands-on experience** building and scaling d
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanSam5k&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSam5k&layout=compact&langs_count=8&theme=gradient&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanSam5k&theme=gradient&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanSam5k&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
